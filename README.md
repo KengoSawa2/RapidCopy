@@ -17,10 +17,10 @@ Source Code license is [BSD 2-Clause License]
 #### 仕様／使用方法(Specification/Usage)
 
 Japanese:
-http://www.lespace.co.jp/file_bl/rapidcopy/manual/linux/index.html
+https://app.lespace.co.jp/file_bl/rapidcopy/manual/linux/index.html
 
 English:
-http://www.lespace.co.jp/file_bl/rapidcopy/manual/linux/index_en.html
+https://app.lespace.co.jp/file_bl/rapidcopy/manual/linux/index_en.html
 
 基本的な仕様は[Mac ver]と共通です。  
 Basically, usage and specification is same as the Mac version.  
